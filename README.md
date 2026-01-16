@@ -4,8 +4,4 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: Hong Hah Noul
 - ⚡ Fun fact: I have been boxing for many years.
-
-<!---
-HaneulHong/HaneulHong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![홍하늘](https://github.com/user-attachments/assets/05d02028-e518-41ee-a545-61f078b1f3cf)
